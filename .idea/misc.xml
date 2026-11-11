@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="~\.conda\envs\competitions" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="~\.conda\envs\competiotion" project-jdk-type="Python SDK" />
+>>>>>>> fe3902a6307f12a03ff44674c072380289d5a239
 </project>
